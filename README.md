@@ -1,6 +1,14 @@
 # 100-days-of-code
 
 
-1 | May 16, 2022 | 1 Hour
-      -Learned basic definitions
-      -Learned about types of software
+## Day 1 
+
+-> May 16, 2022
+
+-> 1 Hour
+
+      1. Setted up and chose my first topic
+
+      2. Learned basic definitions
+
+      3. Learned about types of software
